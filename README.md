@@ -8,6 +8,10 @@ In this challenge, we posed as a risk management associate at Alphabet Soup, a v
 
 I tested four models in addition to the original model trying relu and tanh for teh activation and altering the number of inputs and epochs. 
 
+## Fig. 2: 
+
+![Fig. 2](https://github.com/toniahurst/FinTech_Module_12/blob/main/images/Fig_2.png)
+
 ## Technologies
 
 This program uses Python 3.7.10, Anaconda version 4.10.3, and JupyterLab 3.0.14. It also uses libraries from Pandas, Keras, and Tensorflow. It was written on macOS Catalina 10.15.7 and enacted through Google Colab.
