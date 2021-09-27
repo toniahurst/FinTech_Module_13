@@ -14,7 +14,7 @@ I tested four models in addition to the original model trying relu and tanh for 
 
 ## Technologies
 
-This program uses Python 3.7.10, Anaconda version 4.10.3, and JupyterLab 3.0.14. It also uses libraries from Pandas, Keras, and Tensorflow. It was written on macOS Catalina 10.15.7 and enacted through Google Colab.
+This program uses Python 3.7.10, Anaconda version 4.10.3, and JupyterLab 3.0.14. It also uses libraries from Pandas, Keras, and Tensorflow. It was written on macOS Catalina 10.15.7 and run using Google Colab.
 
 ## Usage
 
