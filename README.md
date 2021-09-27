@@ -6,7 +6,7 @@ In this challenge, we posed as a risk management associate at Alphabet Soup, a v
 
 # Results
 
-I tested four models in addition to the original model trying relu and tanh for the activation and altering the number of inputs, epochs, and hidden layers. The most accurate model of those I tried was A1 which had one hidden layer.
+I tested four models in addition to the original model trying relu and tanh for the activation and altering the number of inputs, epochs, and hidden layers. The most accurate model of those I tried was A1 which had one hidden layer. I would have liked to have discovered a combination which produced a higher accuracy reading. This table shows the relative rank of the models I tested.
 
 ## Fig. 1: 
 
